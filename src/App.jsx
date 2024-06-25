@@ -7,8 +7,8 @@ const App = () => {
         <h2>My Name is: SOMBAT</h2>
         <img
           src="https://cdn.pixabay.com/photo/2024/02/04/04/11/fashion-8551487_640.jpg"
-          width={350}
-          height={250}
+          width={500}
+          height={500}
           alt=""
         />
       </div>
